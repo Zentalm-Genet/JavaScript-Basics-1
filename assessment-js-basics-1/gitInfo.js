@@ -21,7 +21,9 @@ const gitDefinition = "Git is a version control system that allows developers to
 */
 
 //CODE HERE
+
 const gitHubDefinition = "GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere."
+
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -41,6 +43,7 @@ const gitInitDefinition = "git init command is to initialize the new working env
 //CODE HERE
 
 const gitCloneDefinition = "Git clone will clone the new git repsoitory in to the local machine."
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -50,6 +53,7 @@ const gitCloneDefinition = "Git clone will clone the new git repsoitory in to th
 //CODE HERE
 
 const gitStatusDefinition = "The git status command is used to show the status of the git repository. This command displays the state of the local directory and the staging area."
+
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -64,6 +68,7 @@ const gitStatusDefinition = "The git status command is used to show the status o
 const gitAddDefinition = "The git add command is used to place the modified version of the working directory in the staging area."
 
 const gitAddCode = 'git add .'
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
