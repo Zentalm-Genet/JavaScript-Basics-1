@@ -1,0 +1,24 @@
+Support Cryptogram
+Can you solve this?
+Save your answers to a text document (word, pages, etc…) titled support-cryptogram.
+
+Theme: your main avenues for support.
+
+????? | ????-??????????? | ??????? ???????? | ??????? ?????????? ?? ??????
+----- | ---------------- | ------- -------- | ------- ---------- -- ------
+AJCJC | LZPD-LDYFDZIIPQF | ZEWPBYD ICCUPQFB | ICBBZFC PQBUDJKUYD YD ICQUYD
+
+Hint
+A = Q
+C = E
+I = M
+L = P
+Q = N
+Y = O
+
+
+SOLUTION:
+
+QUEUE | PAIR-PROGRAMMING | ADVISOR MEETINGS | MESSAGE INSTRUCTOR OR MENTOR
+----- | ---------------- | ------- -------- | ------- ---------- -- ------
+AJCJC | LZPD-LDYFDZIIPQF | ZEWPBYD ICCUPQFB | ICBBZFC PQBUDJKUYD YD ICQUYD
